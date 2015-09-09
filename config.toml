@@ -1,0 +1,18 @@
+baseurl = "http://vort3x.me/"
+languageCode = "en-us"
+title = "VorT3x's Blog"
+theme = "cactus"
+canonifyurls = false
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  name = "Dmitri Logvinenko"
+  description = "Thoughts, stories and ideas"
+  bio = "Blogger - Programmer - Gopher"
+  twitter = "VorT3x"
+  disqusShortname = "VorT3x"
+  enableRSS = true
+  googleAnalytics = "UA-62813262-1"
+  aboutAuthor = "Software developer who's passionate about writing code and learning new technologies. Currently concentrated on Go. Professionally works as Senior Software Developer (.NET stack)."

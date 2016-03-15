@@ -23,7 +23,7 @@ Inside the folder of your Hugo site run:
 
     $ mkdir themes
     $ cd themes
-    $ git clone git@github.com:digitalcraftsman/hugo-cactus-theme.git
+    $ git clone https://github.com/digitalcraftsman/hugo-cactus-theme.git
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
@@ -41,13 +41,17 @@ Use the about page to introduce yourself to your visitors. You can customize the
 
 This theme features a comment system powered by Disqus too. Just add your Disqus-shortname to the [`config.toml`](//github.com/digitalcraftsman/hugo-cactus-theme/blob/dev/exampleSite/config.toml) and let readers respond to your blog posts.
 
+## Social link icons
+
+You can add a social link panel in the footer by adding entries to the [`config.toml`](//github.com/digitalcraftsman/hugo-cactus-theme/blob/dev/exampleSite/config.toml). The icons uses fonts from the [mono social icons](https://github.com/drinchev/monosocialiconsfont) project. There are 3 styles of icon - circle, rounded, or default(empty).
+
 ## Nearly finished
 
 In order to see your site in action, run Hugo's built-in local server. 
 
-    $ hugo server -w
+    $ hugo server
 
-Now enter `localhost:1313` in the address bar of your browser.
+Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
 
 
 ## Contributing

@@ -9,4 +9,4 @@ Software developer who's passionate about writing code and learning new technolo
 <a href="https://www.linkedin.com/pub/dmitri-logvinenko/35/2a1/1a1" target="_blank">LinkedIn</a>
 <a href="https://github.com/VorT3x" target="_blank">Github</a>
 <a href="https://twitter.com/VorT3x" target="_blank">Twitter</a>
-and of course my <a href="https://goo.gl/dD3cS2" target="_blank">CV</a>
+and of course my <a href="https://goo.gl/NgE7bO" target="_blank">CV</a>

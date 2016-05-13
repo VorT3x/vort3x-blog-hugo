@@ -1,4 +1,4 @@
-baseurl = "http://vort3x.me/"
+baseurl = "https://vort3x.me/"
 languageCode = "en-us"
 title = "VorT3x's Blog"
 theme = "cactus"

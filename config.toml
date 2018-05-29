@@ -5,14 +5,16 @@ theme = "cactus"
 googleAnalytics = "UA-62813262-1"
 disqusShortname = "VorT3x"
 
-[permalinks]
-  post = "/:filename/"
-
 [params]
-  name = "Dmitri Logvinenko"
-  description = "Thoughts, stories and ideas"
-  bio = "Blogger - Programmer - Gopher"
-  twitter = "VorT3x"
-  enableRSS = true
-  aboutAuthor = "Software developer who's passionate about writing code and learning new technologies. Currently concentrated on Go. Professionally works as Technical Lead."
-  copyright = "© Copyright 2015-18 Dmitri Logvinenko"
+    name = "Dmitri Logvinenko"
+    description = "Thoughts, stories and ideas"
+    bio = "Blogger - Programmer - Gopher"
+    twitter = "VorT3x"
+    enableRSS = true
+    aboutAuthor = "Software developer who's passionate about writing code and learning new technologies. Currently concentrated on Go. Professionally works as Technical Lead."
+    copyright = "© Copyright 2015-18 Dmitri Logvinenko"
+
+[social]
+    twitter = "https://www.twitter.com/vort3x"
+    github = "https://www.github.com/vort3x"
+    linkedin = "https://www.linkedin.com/in/dmitri-logvinenko"

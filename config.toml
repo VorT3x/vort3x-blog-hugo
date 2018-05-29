@@ -5,6 +5,9 @@ theme = "cactus"
 googleAnalytics = "UA-62813262-1"
 disqusShortname = "VorT3x"
 
+[permalinks]
+    post = "/:filename/"
+
 [params]
     name = "Dmitri Logvinenko"
     description = "Thoughts, stories and ideas"

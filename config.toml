@@ -2,7 +2,6 @@ baseurl = "https://vort3x.me/"
 languageCode = "en-us"
 title = "VorT3x's Blog"
 theme = "cactus"
-canonifyurls = false
 googleAnalytics = "UA-62813262-1"
 disqusShortname = "VorT3x"
 
